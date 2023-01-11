@@ -1,5 +1,4 @@
-![](/assets/readme github.png)
-
+<img src="https://github.com/alvaroaguadod/alvaroaguadod/blob/main/assets/readme%20github.png" height="480" width="960">
 
 
 
