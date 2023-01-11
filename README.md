@@ -13,4 +13,4 @@ to computers. After living abroad in Norway and Romania, I felt in love with Pyt
 
 ### 🤝 I’m looking to collaborate with Startups, Developers and Companies on interesting projects where I can do my bit.
 
--->
+--> Feel free to get in touch :)
