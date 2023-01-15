@@ -9,7 +9,7 @@ to computers. After living abroad in Norway and Romania, I felt in love with Pyt
 ### 🌱 I’m currently:
   - Taking a Bootcamp on Backend with Python.
   - Studying in Depth Django and Flask.
-  - AWS Certified Cloud Practitioner.
+  - Considering to obtain the AWS Certified Cloud Practitioner.
 
 ### 🤝 I’m looking to collaborate with Startups, Developers and Companies on interesting projects where I can do my bit.
 
